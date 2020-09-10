@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer !
+## I'm a noob developer working as Software Engineer with less than 1 year of experience !
 
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play guitar
