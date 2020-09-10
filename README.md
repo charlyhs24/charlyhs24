@@ -57,17 +57,3 @@
 
 
 ### Folder Structure Enablement Tribe
-
-├── PRUHUB
-<br/>
-   
-   ├── src
-   <br/>
-      ├── components
-      ├──
-      ├── docs                    
-├── src                     # Source files (alternatively `lib` or `app`)
-├── test                    # Automated tests (alternatively `spec` or `tests`)
-├── tools                   # Tools and utilities
-├── LICENSE
-└── README.md
