@@ -49,6 +49,12 @@
 
 ---
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=charlyhs24&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://charlyhs24.github.io
 [twitter]: https://twitter.com/charlyhs24
