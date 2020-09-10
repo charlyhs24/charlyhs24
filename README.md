@@ -59,6 +59,8 @@
 
 
 ├── build                   # Compiled files (alternatively `dist`)
+<br/>
+
 ├── docs                    # Documentation files (alternatively `doc`)
 ├── src                     # Source files (alternatively `lib` or `app`)
 ├── test                    # Automated tests (alternatively `spec` or `tests`)
