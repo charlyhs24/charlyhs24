@@ -55,5 +55,3 @@
 [instagram]: https://www.instagram.com/charlyhs24
 [linkedin]: https://www.linkedin.com/in/charly-haholongan-situmorang
 
-
-### Folder Structure Enablement Tribe
