@@ -6,6 +6,7 @@
 ### working as Software Engineer with less than 1 year of experience
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play guitar
+- I'm still learning how to change ubuntu password command 
 
 ### Connect with me:
 
