@@ -3,7 +3,7 @@
 
 
 ## I'm a noob developer !
-### working as Software Engineer with less than 1 year experience
+### working as Software Engineer with less than 2 year experience
 - 🌱 I’m currently learning everything 🤣
 - ⚡ Fun fact: I love to play guitar
 - I'm still learning how to change ubuntu password command 
